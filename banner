@@ -10,4 +10,4 @@ ENOEXEC 8 Exec format error
 EBADF 9 Bad file descriptor
 ECHILD 10 No child processes...
 
-LTO NLV [MORBID] success installed.
+[MORBID] success installed.
